@@ -13,7 +13,7 @@
 		<groupId>com.mall</groupId>
 		<artifactId>mall-admin</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-		<relativePath/>
+		<relativePath>../pom.xml</relativePath>
 	</parent>
 
 
